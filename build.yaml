@@ -20,7 +20,6 @@
 include:
   - board: nice_nano@2.0.0
     shield: corne_left
-    snippets: studio-rpc-usb-uart
   - board: nice_nano@2.0.0
     shield: corne_right
   - board: nice_nano@2.0.0
